@@ -60,7 +60,7 @@ def load_to_db(conn, df, tbl):
 def run_queries(conn,sql):
     print(sql,':\n',pd.read_sql(sql, conn),'\n')
 
-
+#execution
 extracted_data = extract(url,['Name','MC_USD_Billion'])
 log_progress('Finished data extraction')
 transformed_data = transform(extracted_data,xrate_path)
