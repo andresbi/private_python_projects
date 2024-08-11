@@ -1,0 +1,8 @@
+2024-Aug-10-20:01:36: Finished data extraction
+2024-Aug-10-20:01:36: Finished data transformation
+2024-Aug-10-20:01:36: Finished data loading to csv
+2024-Aug-10-20:01:36: Finished connecting do db
+2024-Aug-10-20:02:12: Finished data extraction
+2024-Aug-10-20:02:12: Finished data transformation
+2024-Aug-10-20:02:12: Finished data loading to csv
+2024-Aug-10-20:02:12: Finished connecting do db
