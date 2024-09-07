@@ -1,0 +1,33 @@
+1) 
+- Bring in all of them
+- put them in a dataframe
+- filter to the top 10 by calories
+- filter to the top 10 by sugar
+- find the ones in common
+
+
+2) 
+- Have a CSV with the desired fruits
+- Only bring in the desired fruits
+- Have a CSV with transactions (John Jan 1 Apple for lots of names)
+- Find the person who ate the most calories
+
+3) 
+- Have a CSV with the desired fruits
+- Only bring in the desired fruits
+- Have a CSV with transactions (John Jan 1 Apple for lots of names)
+- Have a class with an attribute called largest consumer and never consumed where the user can input a fruit and the program returns the list of people. 
+
+
+4) 
+- Connect to PostgresSQL 
+- Load the data from 2) 
+- Do some querying 
+
+
+4) 
+- Use Airflow to load the data to Postgres on a schedule
+
+
+5) 
+- Do it with ubuntu in Github?
